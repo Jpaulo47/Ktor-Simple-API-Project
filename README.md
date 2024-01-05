@@ -1,6 +1,6 @@
 # Ktor Simple API Project
 
-Este é um projeto de exemplo de uma API simples desenvolvida com Ktor, uma framework em Kotlin para construção de aplicações servidoras.
+Este projeto è um exemplo de uma API simples desenvolvida com Ktor, um framework em Kotlin para construção de aplicações servidoras.
 
 ## Objetivo do Projeto
 
